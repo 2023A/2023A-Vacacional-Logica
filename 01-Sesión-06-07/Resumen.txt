@@ -1,0 +1,33 @@
+Sesión 06-07
+
+*Elementos de apoyo
+	[]{}()
+Operadores Ariméticos
+	^
+	* /
+	+ -
+	
+	 2+8/2 =  6
+	(2+8)/2 = 5
+	
+	3*4^2+8 = 56
+	3*16+8
+	3*16+8
+	48  +8
+	56
+	
+	3*4^(2+8) =  
+	3*4^10
+	3*1048576
+	3145728
+	
+	(3*4)^2+8
+	 12^2+8
+	 144 +8
+	 152
+	 
+	 
+	 
+Operadores Relacionales
+
+Operadores Lógicos
