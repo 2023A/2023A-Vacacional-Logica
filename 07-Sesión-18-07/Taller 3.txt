@@ -1,0 +1,6 @@
+Una empresa de seguros emplea a n agentes de ventas. Cada agente realiza n ventas a la semana. El esquema de compensación de la empresa establece que cada agente recibe un salario base ($300.000), más un 10% adicional en forma de comisiones sobre sus ventas. El director de la empresa quiere calcular 
+*La comisión semanal que cada agente ganará por las n ventas que realiza
+*El total semanal que recibirá cada agente, incluyendo tanto el salario base como las comisiones.
+
+Nota: Mostrar la lista, (nombre empleado - Base:xxxx Neto:xxxx)
+

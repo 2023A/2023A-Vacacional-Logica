@@ -1,6 +1,6 @@
 Seleccionar los ejercicios segun corresponda. 
 
-Realziar: 
+Realizar
 1. Código PSEInt
 2. Socializarlo en un video. 
 3. Escoge uno de ellos y lo socializa en clase (Python)
