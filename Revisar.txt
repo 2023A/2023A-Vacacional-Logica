@@ -1,0 +1,2 @@
+*Realizar talleres
+*Examen -> Secuenciales, Condicionales, Ciclos y Vectores
